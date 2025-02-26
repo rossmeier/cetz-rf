@@ -1,0 +1,7 @@
+[package]
+name = "cetz-rf"
+version = "0.0.0"
+entrypoint = "src/lib.typ"
+authors = ["Justus Rossmeier"]
+license = "Apache-2.0"
+description = "RF system block diagram components using cetz"
